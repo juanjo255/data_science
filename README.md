@@ -1,2 +1,2 @@
-# data_science
-Store data science projects.
+# Data Science Projects
+Here I will store every data science project probably more related to biology problems.
